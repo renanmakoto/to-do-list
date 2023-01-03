@@ -5,3 +5,5 @@ The node modules were not committed for being too large. However, no other modul
 You may check the application clicking on the link below:
 
 https://renanmakoto-todotasklist.netlify.app/
+
+I use it myself, for being a very methodical person. I need to use lists on my daily basis.
