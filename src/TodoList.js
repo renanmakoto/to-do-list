@@ -51,7 +51,7 @@ function TodoList() {
 
     return(
     <div className="container">
-        <header className="header"><h1>To Do List</h1><button onClick={() => {setShowModal(true)}} className="addButton">+</button></header>
+        <header className="header"><h1>To Do</h1><button onClick={() => {setShowModal(true)}} className="addButton">+</button></header>
        {/* <TodoForm onAddItem={onAddItem}></TodoForm> */}
        <List onChecked={onChecked} onItemDeleted={onItemDeleted} items={items}></List>
        <Modal show={showModal} onHideModal={onHideModal}><TodoForm onAddItem={onAddItem}></TodoForm></Modal>
