@@ -1,9 +1,22 @@
-# A react app I developed to practice my JavaScript skills and the use of React.js
+<h1 align="center">To Do List</h1>
 
-The node modules were not committed for being too large. However, no other modules were added during its development.
+<p align="center">A To Do List I developed for practising my Fron-End skills. I use it in my daily life as well.</p>
 
-You may check the application clicking on the link below:
+<p align="center">You may access the application by clicking on the link below:</p>
 
-https://renanmakoto-todotasklist.netlify.app/
+<p align="center">https://renanmakoto-todotasklist.netlify.app/</p>
 
-I use it myself, for being a very methodical person. I need to use lists on my daily basis.
+
+<div align="center">
+  
+TECHNOLOGIES USED:
+
+
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="width: 64px; height: 64px;" /></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" style="width: 44px; height: 64px;" /></a>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/64px-JavaScript-logo.png" /></a>
+  
+</div>
+
+
+<p align="center">With ❤ by <img src=https://img.shields.io/badge/-dotExtension-black /> <p/>
