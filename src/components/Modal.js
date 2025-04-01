@@ -4,6 +4,7 @@ import Card from './Card'
 function Modal(properties) {
 
     function hideModal(event) {
+        
     let target = event.target
     if (target.id === "modal") {
         properties.onHideModal()
