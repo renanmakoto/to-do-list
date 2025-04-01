@@ -10,6 +10,7 @@ function Modal(properties) {
     if (target.id === "modal") {
         properties.onHideModal()
     }
+        
     console.log(target)
 }
 
